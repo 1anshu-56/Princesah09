@@ -1,5 +1,7 @@
 # Hi there 👋, Prince here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Princesah09.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Princesah09?tab=followers)<br/>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Princesah09.repoName) [![GitHub followers](https://img.shields.io/github/followers/Princesah09.svg?style=social&label=Follow)](https://github.com/PrinceSah09?tab=following)<br/>
+
+
 
 <!--
 **Prince sah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
