@@ -18,7 +18,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+  ## <img src="https://38.media.tumblr.com/b4b946f24a5dfa5a29434181c38a99ed/tumblr_n7e1i6Kx1Q1tbhzhno1_500.gif" width="30px">&nbsp;***About me***
 
 I am an undergraduate Computer science and Engineering student at BBIT-Kolkata. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Data Structure, and Astronomy**
