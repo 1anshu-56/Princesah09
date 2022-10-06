@@ -16,7 +16,8 @@
 **Prince sah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img align="right" width=300px alt="Unicorn" src="https://38.media.tumblr.com/b4b946f24a5dfa5a29434181c38a99ed/tumblr_n7e1i6Kx1Q1tbhzhno1_500.gif" />
+<!-- <img align="right" width=300px alt="Unicorn" src="https://38.media.tumblr.com/b4b946f24a5dfa5a29434181c38a99ed/tumblr_n7e1i6Kx1Q1tbhzhno1_500.gif" />
+-->
 
   ## <img src="https://media.tenor.com/Tf2gGEZhtEcAAAAC/quby-dancing.gif" width="30px">&nbsp;***About me***
 
