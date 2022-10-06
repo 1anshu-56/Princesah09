@@ -43,7 +43,6 @@ I am an undergraduate Computer science and Engineering student at BBIT-Kolkata. 
 
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read Poetry, 🖌️ do painting and skecthing, 🎵 listen to music.
 
 
   ### 🤝🏻 &nbsp;Connect with Me
@@ -52,7 +51,7 @@ I am an undergraduate Computer science and Engineering student at BBIT-Kolkata. 
 <a href="https://www.linkedin.com/in/princesah/"><img src="https://img.shields.io/badge/- ?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="pbaba7001@gmail.com"><img src="https://img.shields.io/badge/- ?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/prncsah007/"><img src="https://img.shields.io/badge/- ?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="[https://www.facebook.com/rafael.azizov.503/](https://www.facebook.com/profile.php?id=100016711262734)"><img src="https://img.shields.io/badge/- ?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="[https://ww.facebook.com/rafael.azizov.503/](https://www.facebook.com/profile.php?id=100016711262734)"><img src="https://img.shields.io/badge/- ?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 
